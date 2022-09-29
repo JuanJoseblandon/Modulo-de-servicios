@@ -5,4 +5,4 @@ Ejercicios|Descripcion
 ----------|-----------
 [Ejercicio inicial 1](python/simple_server.png)|acceder a un servidor local usando python y el cmd
 [Ejercicio inicial 2](python/webserver.py)|screenshot1.png, servidor web local creado con python
-[Ejercicio inicial 3](python/dummyserver.py)
+[Ejercicio inicial 3](python/dummyserver.py)| servidor enpython que muestra un gif, se puede acceder a el desde otro terminal
