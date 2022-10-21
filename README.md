@@ -1,4 +1,4 @@
-# SRI
+# Servicio de red
 Recopilación de ejercicio del modulo de SRI
 ## Trimestre 1
 ### Tema 0
