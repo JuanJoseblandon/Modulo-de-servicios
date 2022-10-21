@@ -1,0 +1,26 @@
+#!/bin/bash
+echo "introduce el nombre del fichero"
+read f
+touch $f.html
+echo "<!DOCTYPE html>" >> /home/usuario/$f.html
+echo "<html lang="en">" >> /home/usuario/$f.html
+echo "<head>" >> /home/usuario/$f.html
+echo  "<title>titulo</title>" >> /home/usuario/$f.html
+echo "</head>" >> $f.html
+echo "<body>" >> $f.html
+echo  "<h1><strong>default_h1</strong></h1>" >> /home/usuario/$f.html
+echo  "<p>default_p</p>" >> /home/usuario/$f.html
+echo "</body>" >> /home/usuario/$f.html
+echo "</html>" >> /home/usuario/$f.html
+
+echo "introduce un nombre para tu web"
+read t
+sed -i "s/titulo/$t/g" $f.html
+echo "introduce un titulo para tu página"
+read h1
+sed -i "s/default_h1/$h1/g" $f.html
+echo "introduce el texto que deseas escribir"
+read p
+sed -i "s/default_p/$p/g" $f.html
+
+
