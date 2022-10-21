@@ -5,5 +5,5 @@ if  grep -oq "$puerto" ports.conf;
 then 
 	echo "Ya esta escrito ese puerto"
 else
-	echo "Listen $puerto"  >> /home/usuario/ports.conf
+	echo "Listen $puerto"  >> /etc/apache2/ports.conf
 fi
