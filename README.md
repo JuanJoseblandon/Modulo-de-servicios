@@ -11,7 +11,7 @@ Ejercicios|Descripcion
 ## Tema 1
 Ejercicios|Descripcion
 ----------|-----------
-[Ejercicio1](tema1/apache/actividad2, apache.docx.pdf)|Explicacion en documento pfd
+[Ejercicio1](tema1/apache/actividad2_apache.docx.pdf)|Explicacion en documento pfd
 [Ejercicio1](tema1/apache/puerto)|script que añade puerto de escucha
 [Ejercicio1](tema1/apache/dominio_ip)|script que añade dominio e ip
 [Ejercicio1](tema1/apache/web)|script que crea una archivo .html
