@@ -16,4 +16,4 @@ Ejercicios|Descripcion
 [Ejercicio1](tema1/apache/dominio_ip)|script que añade dominio e ip
 [Ejercicio1](tema1/apache/web)|script que crea una archivo .html
 
-## Proyecto de sri [primer trimestre](https://github.com/JuanJoseblandon/Proyecto_SRI1) 
+## Proyecto de sri [primer trimestre](https://github.com/JuanJoseblandon/Proyecto_SRI1.git) 
